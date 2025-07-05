@@ -1,0 +1,12 @@
+{
+    "params": [
+        {
+            "name": "Character",
+            "type": "StrumLine",
+            "defaultValue": ""
+        },
+        {
+            "name": "It's CPU?",
+            "type": "Bool",
+            "defaultValue": "false"
+        }]}
